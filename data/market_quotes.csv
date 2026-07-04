@@ -1,0 +1,8 @@
+type,maturity,rate,year_fraction,payment_interval
+# Public India government bond curve snapshot, 4 Jul 2026
+# Source: World Government Bonds India yield curve page
+deposit,1.0,0.05715,1.0,
+swap,2.0,0.05995,,1.0
+swap,3.0,0.06212,,1.0
+swap,5.0,0.06425,,1.0
+swap,10.0,0.06707,,1.0
