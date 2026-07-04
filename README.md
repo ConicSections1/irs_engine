@@ -2,6 +2,8 @@
 
 Modern C++20 interest rate swap and yield curve engine for fixed-income pricing, bootstrapping, and basic risk analytics.
 
+License: MIT. This project was created for educational and reproducible-demo purposes.
+
 ## What it does
 
 - Bootstraps a continuously compounded yield curve from market quotes.
